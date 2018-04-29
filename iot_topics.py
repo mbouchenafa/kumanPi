@@ -1,0 +1,5 @@
+topicMove = "KumanPi/move"
+topicScan = "KumanPi/scan"
+topicSpeak = "KumanPi/speak"
+topicSee = "KumanPi/see"
+topicRead = "KumanPi/read"
